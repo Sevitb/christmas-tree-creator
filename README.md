@@ -1,1 +1,3 @@
-# -hristmas-tree-creator
+# Christmas Tree Creator
+
+Библиотека для рисования в терминале, ёлки-палки!

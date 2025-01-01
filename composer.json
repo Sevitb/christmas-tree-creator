@@ -1,0 +1,15 @@
+{
+    "name": "apeskovatzkov/christmas-tree-creator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Apeskovatzkov\\ChristmasTreeCreator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "apeskovatzkov"
+        }
+    ],
+    "require": {}
+}
