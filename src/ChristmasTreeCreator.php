@@ -33,5 +33,3 @@ class ChristmasTreeCreator
         static::generateTrunk($n, $p);
     }
 }
-
-ChristmasTreeCreator::drawTree(12);
